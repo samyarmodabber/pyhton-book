@@ -1,0 +1,8 @@
+name: pythom-basic
+
+channels:
+  - conda-forge
+
+dependencies:
+  - pip:
+    -r requirements.txt
